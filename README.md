@@ -22,7 +22,7 @@
 <br/>
 地址：https://github.com/wangqiaoqiaogithub/videoplayer
 <br/>
-参考: [audio.js](http://blog.csdn.net/guodongxiaren "悬停显示")
+参考: [audio.js](https://github.com/wangqiaoqiaogithub/videoplayer/js/audio.js "悬停显示")
 ## 说明
 * 如果有对实现方式发现错误，可以在相应库的 issues 进行提问或勘误。
 * 如果对你有所帮助不妨来个Star。
