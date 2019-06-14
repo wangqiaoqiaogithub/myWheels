@@ -25,4 +25,4 @@
 参考：[audio.js](https://github.com/wangqiaoqiaogithub/videoplayer/blob/master/src/js/audio.js "悬停显示")
 ## 说明
 * 如果有对实现方式发现错误，可以在相应库的 issues 进行提问或勘误。
-* 如果对你有所帮助不妨来个Star。
+* 希望对你有所帮助不妨来个Star。
