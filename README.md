@@ -18,8 +18,8 @@
 <br/>
 ## 列表
 #### 1.Video视频播放插件
-介绍: 这是一个原生videoHTML5API播放器插件
 <br/>
+介绍: 这是一个原生videoHTML5API播放器插件
 <br/>
 地址：https://github.com/mqyqingfeng/EventEmitter
 ## 说明
