@@ -17,13 +17,13 @@
 现在的轮子主要偏向DOM类。
 <br/>
 ## 列表
-#### 1.Video视频播放插件
+#### 1.Videoplayer视频播放插件
 介绍：这是一个原生videoHTML5API播放器插件
 <br/>
 地址：https://github.com/wangqiaoqiaogithub/videoplayer
 <br/>
 参考：[audio.js](https://github.com/wangqiaoqiaogithub/videoplayer/blob/master/src/js/audio.js "悬停显示")
-### 2.ScrollToTop.js
+#### 2.ScrollToTop.js
 介绍：这是一个原生的点击向上滑动的插件
 <br/>
 地址：https://github.com/wangqiaoqiaogithub/ScrollToTop
