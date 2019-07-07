@@ -27,6 +27,8 @@
 介绍：这是一个原生的点击向上滑动的插件
 <br/>
 地址：https://github.com/wangqiaoqiaogithub/ScrollToTop
+<br/>
+参考：[videoplayer.js](https://github.com/wangqiaoqiaogithub/ScrollToTop/blob/master/src/js/scrollToTop.js "悬停显示")
 ## 说明
 * 如果有对实现方式发现错误，可以在相应库的 issues 进行提问或勘误。
 * 希望对你有所帮助不妨来个Star。
