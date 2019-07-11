@@ -10,7 +10,7 @@
 <br/>
 不以商业为目的,仅供学习参考。
 <br/>
-努力生长，不负春光。
+努力生长，不负春光。(Strive to grow without losing the spring)
 ## 要求
 原生实现
 <br/>
