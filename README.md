@@ -12,7 +12,7 @@
 <br/>
 努力生长，不负春光。(Strive to grow without losing the spring)
 ## 要求
-原生实现
+原生（Javascript）实现
 <br/>
 ## 注意
 现在的轮子主要偏向DOM类。
