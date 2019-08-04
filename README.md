@@ -24,6 +24,8 @@
 地址：https://github.com/wangqiaoqiaogithub/videoplayer
 <br/>
 参考：[audio.js](https://github.com/wangqiaoqiaogithub/videoplayer/blob/master/src/js/audio.js "audio.js轮子")
+<br/>
+效果演示：[Videoplayer](https://wangqiaoqiaogithub.github.io/videoplayer/dist/index.html "videoplayer页面")
 ### 2.ScrollToTop.js
 介绍：这是一个原生的点击向上滑动的插件
 <br/>
