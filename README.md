@@ -20,7 +20,7 @@
 #### 1.Video视频播放插件
 介绍：这是一个原生videoHTML5API播放器插件
 <br/>
-兼容性： IE8+
+兼容性： IE9+
 <br/>
 地址：https://github.com/wangqiaoqiaogithub/videoplayer
 <br/>
