@@ -30,7 +30,9 @@
 ### 2.ScrollToTop.js
 介绍：这是一个原生的点击向上滑动的插件
 <br/>
-兼容性： IE8+
+兼容性： IE9+
+<br/>
+大小： 4.8KB
 <br/>
 地址：https://github.com/wangqiaoqiaogithub/ScrollToTop
 <br/>
