@@ -22,6 +22,8 @@
 <br/>
 兼容性： IE9+
 <br/>
+大小： 4~6KB（压缩后）
+<br/>
 地址：https://github.com/wangqiaoqiaogithub/videoplayer
 <br/>
 参考：[audio.js](https://github.com/wangqiaoqiaogithub/videoplayer/blob/master/src/js/audio.js "audio.js轮子")
